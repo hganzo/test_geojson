@@ -6,7 +6,7 @@
       "properties": {"id":"01",
                      "loc":"222-22-22-01"},
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "Polygon",
         "coordinates": [
           [
             [0.0, 0.0],
@@ -23,7 +23,7 @@
         "properties": {"id":"02",
                        "loc":"222-22-22-02"},
         "geometry": {
-          "type": "MultiPolygon",
+          "type": "Polygon",
           "coordinates": [
             [
               [20.0, 0.0],
