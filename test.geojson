@@ -3,32 +3,35 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {},
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[0.0, 0.0], [0.0, 10.0], [10.0, 10.0], [10.0, 0.0], [0.0, 0.0]]
-      },
-      "properties": {
-        "prop0": "value0"
+        "coordinates": [
+          [
+            [0.0, 0.0],
+            [0.0, 10.0],
+            [10.0, 10.0],
+            [10.0, 0.0],
+            [0.0, 0.0]
+          ]
+        ]
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[20.0, 0.0], [20.0, 10.0], [30.0, 10.0], [30.0, 0.0], [20.0, 0.0]]
-      },
-      "properties": {
-        "prop0": "value1"
+        "type": "Feature",
+        "properties": {},
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [20.0, 0.0],
+              [20.0, 10.0],
+              [30.0, 10.0],
+              [30.0, 0.0],
+              [20.0, 0.0]
+            ]
+          ]
+        }
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[40.0, 0.0], [40.0, 10.0], [50.0, 10.0], [50.0, 0.0], [40.0, 0.0]]
-      },
-      "properties": {
-        "prop0": "value2"
-      }
-    }
- }
+   ]
+}
