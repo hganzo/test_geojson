@@ -3,7 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id":"01",
+                     "loc":"222-22-22-01"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19,7 +20,8 @@
     },
     {
         "type": "Feature",
-        "properties": {},
+        "properties": {"id":"02",
+                       "loc":"222-22-22-02"},
         "geometry": {
           "type": "Polygon",
           "coordinates": [
